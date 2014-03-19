@@ -1,4 +1,4 @@
-Picture-Puller-Cleaner|Version: 1.0.0|Made by:GrowPrograms@gmail.com
+Picture-Puller-Cleaner | Version: 1.0.0 | Made by: GrowPrograms@gmail.com
 ======================
 
 This is a program designed to wipe all the data on a JPeg image or .jpg
