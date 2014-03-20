@@ -7,7 +7,7 @@
 echo && echo "Welcome to Picture Cleaner/Puller(for android)!" && echo
 #Welcome
 
-echo "Checking which platform you are running..." && sleep 3
+echo "Checking which platform you are running..." && sleep 1
 #PLATFORM CHECKS
 if [ $OSTYPE = "darwin12" ]
   then
